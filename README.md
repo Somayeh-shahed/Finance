@@ -1,0 +1,1 @@
+The initial version of the program is designed to retrieve stock data from Yahoo Finance and save it to an Excel file, featuring a simple graphical interface for entering the stock name and start/end dates as program inputs.
